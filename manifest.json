@@ -1,6 +1,6 @@
 {
     "name": "Dialogflow Helper",
-    "version": "0.1",
+    "version": "0.1.0",
     "description": "Dialogflow Helper",
     "content_scripts": [
         {
