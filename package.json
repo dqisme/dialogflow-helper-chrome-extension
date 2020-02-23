@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pack": "zip -r $npm_package_name.$npm_package_version.zip ."
+    "pack": "zip -r $npm_package_name.$npm_package_version.zip . -x ./.\\*"
   },
   "repository": {
     "type": "git",
